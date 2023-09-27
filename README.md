@@ -3,3 +3,5 @@
 ## Component
 ## State, Props
 ## Event handling
+
+> **NOTE** 
